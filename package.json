@@ -1,0 +1,15 @@
+{
+  "name": "mehta_a_adler_n_rokuflashback_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Asim Mehta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
