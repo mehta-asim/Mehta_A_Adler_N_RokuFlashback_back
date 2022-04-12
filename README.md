@@ -83,7 +83,7 @@ There are 2 things that you require for smooth functioning and viewing of the pr
 
 - [2. Install any Code Editor(Optional)](https://www.google.com/search?q=download-code-editor)
 
-- [3. Clone the BackEnd Respository](https://github.com/mehta-asim/Mehta_A_Usun_E_Kumar_P_FIP_back)
+- [3. Clone the FrontEnd Respository](https://github.com/mehta-asim/Mehta_A_Usun_E_Kumar_P_FIP_front)
 
 - [4. CLone the Api Repository](https://github.com/mehta-asim/Mehta_Asim_Adler_Natasha_MMED-3014-research_2)
 
