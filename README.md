@@ -85,11 +85,18 @@ There are 2 things that you require for smooth functioning and viewing of the pr
 
 - [3. Clone the BackEnd Respository](https://github.com/mehta-asim/Mehta_A_Usun_E_Kumar_P_FIP_back)
 
+- [4. CLone the Api Repository](https://github.com/mehta-asim/Mehta_Asim_Adler_Natasha_MMED-3014-research_2)
+
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+open the API Directory and Add the *.sql file from /database folder to your phpmyadmin and then run
 
-After installing the node modules, you open the BackEnd Directory and run
+"php -S 127.0.0.1:8000 -t public"
+
+open the backend directory and Add the *.sql file from /database folder to your phpmyadmin.
+
+After installing the node modules, you run
 
 "node app"
 
