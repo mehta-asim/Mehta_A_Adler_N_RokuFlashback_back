@@ -88,6 +88,7 @@ There are 2 things that you require for smooth functioning and viewing of the pr
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+Add the *.sql file from /database folder to your phpmyadmin.
 
 After installing the node modules, you open the BackEnd Directory and run
 
